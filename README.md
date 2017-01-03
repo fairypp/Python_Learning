@@ -1,2 +1,2 @@
 # Python_Learning
-Reorganized my study materials and codes for Python learning.
+Reorganize my study materials and codes for Python learning.
